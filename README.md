@@ -1,5 +1,7 @@
 # Strategy - Caso práctico
 
+[Home](https://github.com/MCC-MOO-EJ23/dp-index)
+
 ### Intención
 
 Define una familia de algoritmos, encapsula cada uno de ellos y los hace intercambiables. Este patrón permite que los algoritmos varíen de forma independiente a los clientes que los usen.
@@ -56,3 +58,4 @@ mysql> exit
 * Cargue las Extensiones Java de VS Code correcta y completamente.
 * En la clase principal de clic sobre el botón Play.
 
+[Home](https://github.com/MCC-MOO-EJ23/dp-index)
