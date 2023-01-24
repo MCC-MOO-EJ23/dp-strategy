@@ -34,7 +34,7 @@ Solución con el patrón Strategy:
 
 ![image](https://user-images.githubusercontent.com/55771796/174160347-561778f7-f7b2-45aa-ac9c-cb04fc931c7f.png)
 
-### Ejecucion
+# Montar base de datos - mySQL
 
 ```
 # Levantar contenedor de mysql -----------------
