@@ -1,7 +1,8 @@
 {
 	"extensions" : [
-	  "GitHub.copilot",
-	  "vscjava.vscode-java-pack",
-	  "ms-azuretools.vscode-docker"
-  ]
+		"GitHub.copilot",
+		"vscjava.vscode-java-pack",
+		"ms-azuretools.vscode-docker",
+		"cweijan.vscode-mysql-client2"
+	]
   }
