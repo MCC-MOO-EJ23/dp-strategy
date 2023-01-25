@@ -39,7 +39,7 @@ Solución con el patrón Strategy:
 ## Levantar contenedor de mysql
 
 ```
-docker run --detach --name=posmysql --publish 6603:3306 ghcr.io/mcc-moo-ej23/pos-mysql:0.1
+docker run --detach --name=posmysql --publish 6603:3306 ghcr.io/mcc-moo-ej23/dp-strategy/pos-mysql:0.1
 ```
 
 ## Consultar el contenedor mysql de modo interactivo
