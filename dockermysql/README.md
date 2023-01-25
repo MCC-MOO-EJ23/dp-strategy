@@ -1,0 +1,15 @@
+# Command to create MySQL container
+```
+docker build -t pos-mysql:0.1 .
+```
+
+# Command to run the MySQL container
+```
+docker run --detach --name=posmysql --publish 6603:3306 pos-mysql:0.1
+```
+
+# Command to debug the MySQL container
+```
+docker exec -it posmysql mysql -p
+```
+[Review the Docker mini-manual to additional reference](https://gist.github.com/ricardo-qm/5e9c60d0e7171a1ac3910dab3d6ecc59)
